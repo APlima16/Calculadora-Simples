@@ -17,12 +17,12 @@
   }
   h1 { 
     background-color: #f3a8e3;
-    color: aqua;
+    color: rgb(0, 47, 150);
   }
   
   h2 {
-    background-color:rgb(220, 240, 200);
-    color:chartreuse;
+    background-color:rgb(228, 188, 233);
+    color:rgb(59, 100, 233);
   }
 
 .calculator {

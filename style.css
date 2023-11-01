@@ -35,15 +35,7 @@ text-align: center;
   background-image: url(img/pngtree-realistic-galaxy-background-image_444831.jpg);
   background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
   background-repeat: no-repeat; /* Evita que a imagem seja repetida */
-  h1 { 
-    background-color: #f3a8e3;
-    color: aqua;
-  }
   
-  h2 {
-    background-color:rgb(220, 240, 200);
-    color:chartreuse;
-  }
   }
   
 .number {

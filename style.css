@@ -19,7 +19,10 @@
     background-color: #f592df;
     color: aqua;
   }
-
+  h2 {
+    background-color:rgb(220, 240, 200);
+    color:chartreuse;
+  }
 .calculator {
 border: 2px solid hsl(0, 0%, 0%);
 width: 800px; /* Largura aumentada para 800 pixels */
